@@ -1,0 +1,190 @@
+2018-08-09 20:52:43,368 - __main__ - INFO - Starting stop
+2018-08-09 20:52:43,368 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500)
+2018-08-09 20:58:25,942 - __main__ - INFO - Starting stop
+2018-08-09 20:58:25,942 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500)
+2018-08-09 20:58:25,942 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 20:58:25,942 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:01:44,669 - __main__ - INFO - Starting stop
+2018-08-09 21:01:44,669 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500)
+2018-08-09 21:01:44,669 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:01:44,669 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:02:03,163 - __main__ - INFO - Starting stop
+2018-08-09 21:02:03,163 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500)
+2018-08-09 21:02:03,163 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:02:03,163 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:02:03,164 - __main__ - DEBUG - Closeing DB
+2018-08-09 21:02:03,164 - __main__ - DEBUG - Closed DB
+2018-08-09 21:02:50,486 - __main__ - INFO - Starting stop
+2018-08-09 21:02:50,486 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500)
+2018-08-09 21:02:50,486 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:02:50,486 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:02:50,486 - __main__ - DEBUG - Closeing DB
+2018-08-09 21:02:50,486 - __main__ - DEBUG - Closed DB
+2018-08-09 21:03:13,854 - __main__ - INFO - Starting stop
+2018-08-09 21:03:13,854 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500)
+2018-08-09 21:03:13,855 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:03:13,855 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:03:13,855 - __main__ - DEBUG - Closing DB
+2018-08-09 21:03:13,855 - __main__ - DEBUG - Closed DB
+2018-08-09 21:16:46,908 - __main__ - INFO - Starting stop
+2018-08-09 21:16:46,908 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:16:46,908 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:16:46,908 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:20:32,468 - __main__ - INFO - Starting stop
+2018-08-09 21:20:32,468 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:20:32,468 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:20:32,468 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:20:37,584 - __main__ - INFO - Starting stop
+2018-08-09 21:20:37,585 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:20:37,585 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:20:37,585 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:20:57,077 - __main__ - INFO - Starting stop
+2018-08-09 21:20:57,077 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:20:57,077 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:20:57,077 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:21:05,560 - __main__ - INFO - Starting stop
+2018-08-09 21:21:05,560 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:21:05,560 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:21:05,560 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:21:05,560 - __main__ - ERROR - Error--> must be str, not int
+2018-08-09 21:21:22,845 - __main__ - INFO - Starting stop
+2018-08-09 21:21:22,845 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:21:22,846 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:21:22,846 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:21:22,846 - __main__ - ERROR - Error--> must be str, not int
+2018-08-09 21:21:46,300 - __main__ - INFO - Starting stop
+2018-08-09 21:21:46,300 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:21:46,301 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:21:46,301 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:21:46,931 - __main__ - ERROR - Error--> name 'time' is not defined
+2018-08-09 21:22:01,762 - __main__ - INFO - Starting stop
+2018-08-09 21:22:01,762 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:22:01,762 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:22:01,762 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:22:55,901 - __main__ - DEBUG - Closing DB
+2018-08-09 21:22:55,901 - __main__ - DEBUG - Closed DB
+2018-08-09 21:24:59,072 - __main__ - INFO - Starting stop
+2018-08-09 21:24:59,072 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:24:59,072 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:24:59,073 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:24:59,073 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:24:59,243 - __main__ - ERROR - Error--> Object of type 'bytes' is not JSON serializable
+2018-08-09 21:25:04,661 - __main__ - DEBUG - Closing DB
+2018-08-09 21:25:04,661 - __main__ - DEBUG - Closed DB
+2018-08-09 21:27:32,317 - __main__ - INFO - Starting stop
+2018-08-09 21:27:32,317 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:27:32,317 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:27:32,318 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:27:32,318 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:27:40,574 - __main__ - DEBUG - Closing DB
+2018-08-09 21:27:40,574 - __main__ - DEBUG - Closed DB
+2018-08-09 21:34:31,736 - __main__ - INFO - Starting stop
+2018-08-09 21:34:31,736 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:34:31,736 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:34:31,736 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:34:31,736 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:34:32,382 - __main__ - ERROR - Error--> 'dict' object has no attribute 'LastModified'
+2018-08-09 21:35:14,443 - __main__ - DEBUG - Closing DB
+2018-08-09 21:35:14,444 - __main__ - DEBUG - Closed DB
+2018-08-09 21:35:15,868 - __main__ - INFO - Starting stop
+2018-08-09 21:35:15,868 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:35:15,868 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:35:15,868 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:35:15,868 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:35:21,133 - __main__ - DEBUG - Closing DB
+2018-08-09 21:35:21,134 - __main__ - DEBUG - Closed DB
+2018-08-09 21:36:01,967 - __main__ - INFO - Starting stop
+2018-08-09 21:36:01,967 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:36:01,967 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:36:01,967 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:36:01,967 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:36:08,765 - __main__ - DEBUG - Closing DB
+2018-08-09 21:36:08,766 - __main__ - DEBUG - Closed DB
+2018-08-09 21:37:22,810 - __main__ - INFO - Starting stop
+2018-08-09 21:37:22,810 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:37:22,810 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:37:22,810 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:37:22,810 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:48:16,008 - __main__ - DEBUG - Closing DB
+2018-08-09 21:48:16,008 - __main__ - DEBUG - Closed DB
+2018-08-09 21:48:17,012 - __main__ - INFO - Starting stop
+2018-08-09 21:48:17,012 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:48:17,012 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:48:17,012 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:48:17,012 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:48:17,012 - __main__ - ERROR - Error--> name 'ts' is not defined
+2018-08-09 21:48:25,802 - __main__ - DEBUG - Closing DB
+2018-08-09 21:48:25,802 - __main__ - DEBUG - Closed DB
+2018-08-09 21:48:27,383 - __main__ - INFO - Starting stop
+2018-08-09 21:48:27,383 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:48:27,383 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:48:27,384 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:48:27,384 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:48:27,384 - __main__ - ERROR - Error--> name 'ts' is not defined
+2018-08-09 21:48:29,882 - __main__ - DEBUG - Closing DB
+2018-08-09 21:48:29,882 - __main__ - DEBUG - Closed DB
+2018-08-09 21:48:47,795 - __main__ - INFO - Starting stop
+2018-08-09 21:48:47,795 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:48:47,795 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:48:47,796 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:48:47,796 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:48:47,796 - __main__ - ERROR - Error--> module 'datetime' has no attribute 'strftime'
+2018-08-09 21:48:49,948 - __main__ - DEBUG - Closing DB
+2018-08-09 21:48:49,949 - __main__ - DEBUG - Closed DB
+2018-08-09 21:49:20,707 - __main__ - INFO - Starting stop
+2018-08-09 21:49:20,707 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:49:20,707 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:49:20,708 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:49:20,708 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:49:24,226 - __main__ - DEBUG - Closing DB
+2018-08-09 21:49:24,227 - __main__ - DEBUG - Closed DB
+2018-08-09 21:49:56,188 - __main__ - INFO - Starting stop
+2018-08-09 21:49:56,188 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:49:56,188 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:49:56,188 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:49:56,188 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:49:59,493 - __main__ - DEBUG - Closing DB
+2018-08-09 21:49:59,493 - __main__ - DEBUG - Closed DB
+2018-08-09 21:54:48,617 - __main__ - INFO - Starting stop
+2018-08-09 21:54:48,617 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 21:54:48,617 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 21:54:48,617 - __main__ - DEBUG - Connected to DB
+2018-08-09 21:54:48,617 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 21:54:51,646 - __main__ - DEBUG - Closing DB
+2018-08-09 21:54:51,647 - __main__ - DEBUG - Closed DB
+2018-08-09 22:04:30,157 - __main__ - INFO - Starting stop
+2018-08-09 22:04:30,157 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 22:04:30,157 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 22:04:30,158 - __main__ - DEBUG - Connected to DB
+2018-08-09 22:04:30,158 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 22:04:38,572 - __main__ - DEBUG - Closing DB
+2018-08-09 22:04:38,573 - __main__ - DEBUG - Closed DB
+2018-08-09 22:06:52,461 - __main__ - INFO - Starting stop
+2018-08-09 22:06:52,461 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 22:06:52,462 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 22:06:52,462 - __main__ - DEBUG - Connected to DB
+2018-08-09 22:06:52,462 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 22:06:59,513 - __main__ - DEBUG - Closing DB
+2018-08-09 22:06:59,514 - __main__ - DEBUG - Closed DB
+2018-08-09 22:15:55,952 - __main__ - INFO - Starting stop
+2018-08-09 22:15:55,953 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 22:15:55,953 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 22:15:55,953 - __main__ - DEBUG - Connected to DB
+2018-08-09 22:15:55,953 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 22:15:56,553 - __main__ - ERROR - Error--> table stop_details has no column named DepatureStatus
+2018-08-09 22:16:01,720 - __main__ - DEBUG - Closing DB
+2018-08-09 22:16:01,720 - __main__ - DEBUG - Closed DB
+2018-08-09 22:16:41,554 - __main__ - INFO - Starting stop
+2018-08-09 22:16:41,555 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 22:16:41,555 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 22:16:41,555 - __main__ - DEBUG - Connected to DB
+2018-08-09 22:16:41,555 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 22:17:16,306 - __main__ - DEBUG - Closing DB
+2018-08-09 22:17:16,306 - __main__ - DEBUG - Closed DB
+2018-08-09 22:17:36,335 - __main__ - INFO - Starting stop
+2018-08-09 22:17:36,335 - __main__ - INFO - Arguments: Namespace(db='stop.db', interval=60, stopID=5500, url='https://www.metlink.org.nz/api/v1/StopDepartures/')
+2018-08-09 22:17:36,336 - __main__ - DEBUG - Connecting to DB: stop.db
+2018-08-09 22:17:36,336 - __main__ - DEBUG - Connected to DB
+2018-08-09 22:17:36,336 - __main__ - DEBUG - URL: https://www.metlink.org.nz/api/v1/StopDepartures/5500
+2018-08-09 22:44:25,713 - __main__ - DEBUG - Closing DB
+2018-08-09 22:44:25,714 - __main__ - DEBUG - Closed DB

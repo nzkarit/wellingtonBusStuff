@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Ignore the DB files which might have data in them
+stop.db
+
+#Ignore log files
+*.log
