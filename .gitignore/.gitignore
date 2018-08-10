@@ -105,6 +105,7 @@ venv.bak/
 
 #Ignore the DB files which might have data in them
 stop.db
+service_location.db
 
 #Ignore log files
 *.log
