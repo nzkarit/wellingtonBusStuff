@@ -22,7 +22,7 @@ def argParser():
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument('-s', action='store', type=int, dest='stopID', default=5500, help='The stop number for the stop you would like to capture the data for. Default: %(default)s')
     parser.add_argument('-i', action='store', type=int, dest='interval', default=60, help='How often in seconds to requery the API. Default: %(default)s')
-    parser.add_argument('-d', action='store', type=str, dest='db', default='stop.db', help='The sqlite database to data in. Assumes it already has all the schema in place. Default: %(default)s')
+    parser.add_argument('-d', action='store', type=str, dest='db', default='stop_departures.db', help='The sqlite database to data in. Assumes it already has all the schema in place. Default: %(default)s')
     parser.add_argument('--url', action='store', type=str, dest='url', default='https://www.metlink.org.nz/api/v1/StopDepartures/', help='The base URL for the data. Default: %(default)s')
     parser.add_argument('-r', action='store', type=int, dest='repeats', default=0, help='How many time to repeat before exiting. 0 means repeat forever. Default: %(default)s')
     return parser.parse_args()
@@ -59,7 +59,7 @@ def monitor():
         try:
             date = datetime.datetime.now().strftime("%Y-%m-%d")
             timestamp = datetime.datetime.now().isoformat()
-            logger.debug('Timestamp: %s' % (timestamp))            
+            logger.debug('Timestamp: %s' % (timestamp))
             with urllib.request.urlopen(url) as response:
                 data = response.read()
                 encoding = response.info().get_content_charset('utf-8')
@@ -114,7 +114,7 @@ def logToDB(rows):
     try:
         c = conn.cursor()
         for row in rows:
-            sql = 'INSERT INTO stop_details (date, timestamp, LastModified, name, Sms, Farezone, Lat, Long, ServiceID, IsRealtime, VehicleRef, Direction, OperatorRef, OriginStopID, OriginStopName, DestinationStopID, DestinationStopName, AimedArrival, AimedDeparture, ExpectedDeparture, DisplayDeparture, VehicleFeature, DepartureStatus, DisplayDepartureSeconds, Code, TrimmedCode, ServiceName, Mode) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
+            sql = 'INSERT INTO stop_departures_details (date, timestamp, LastModified, name, Sms, Farezone, Lat, Long, ServiceID, IsRealtime, VehicleRef, Direction, OperatorRef, OriginStopID, OriginStopName, DestinationStopID, DestinationStopName, AimedArrival, AimedDeparture, ExpectedDeparture, DisplayDeparture, VehicleFeature, DepartureStatus, DisplayDepartureSeconds, Code, TrimmedCode, ServiceName, Mode) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
             c.execute(sql, (row['date'], row['timestamp'], row['LastModified'], row['Name'], row['Sms'], row['Farezone'], row['Lat'], row['Long'], row['ServiceID'], row['IsRealtime'], row['VehicleRef'], row['Direction'], row['OperatorRef'], row['OriginStopID'], row['OriginStopName'], row['DestinationStopID'], row['DestinationStopName'], row['AimedArrival'], row['AimedDeparture'], row['ExpectedDeparture'], row['DisplayDeparture'], row['VehicleFeature'], row['DepartureStatus'], row['DisplayDepartureSeconds'], row['Code'], row['TrimmedCode'], row['ServiceName'], row['Mode']))
         conn.commit()
         c.close()
@@ -128,7 +128,7 @@ def main():
     arguments = argParser()
     
     global logger
-    logging.config.fileConfig('logging_stop.cfg')
+    logging.config.fileConfig('logging_stop_departures.cfg')
     logger = logging.getLogger(__name__)
     logger.info('Starting stop')
     logger.info('Arguments: %s' % (arguments))
