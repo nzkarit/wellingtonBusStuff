@@ -1,0 +1,22 @@
+CREATE TABLE `stop_details` (
+        `id`    INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+        `timestamp`     TEXT NOT NULL,
+        `LastModified`  TEXT NOT NULL,
+        `Sms`   INTEGER NOT NULL,
+        `Lat`   NUMERIC,
+        `Long`  NUMERIC,
+        `ServiceID`     INTEGER,
+        `IsRealtime`    INTEGER,
+        `VehicleRef`    INTEGER,
+        `Direction`     TEXT,
+        `OperatorRef`   TEXT,
+        `OriginStopID`  INTEGER,
+        `DestinationStopID`     INTEGER,
+        `AimedArrival`  TEXT,
+        `AimedDeparture`        TEXT,
+        `ExpectedDeparture`     TEXT,
+        `DisplayDeparture`      TEXT,
+        `VehicleFeature`        TEXT,
+        `DepartureStatus`       TEXT,
+        `DisplayDepartureSeconds`       INTEGER
+);

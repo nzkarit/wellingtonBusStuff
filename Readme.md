@@ -53,9 +53,27 @@ SELECT serviceid, aimeddeparture, expecteddeparture, (CAST(strftime('%s', expect
 	ORDER BY serviceid, aimeddeparture
 ```
 
-# Collection Location Information
-There is a second API which currently not logging data for which is the one that has the location of the buses:
-* https://www.metlink.org.nz/api/v1/ServiceLocation/1
+# Collecting Service Location Information
+service\_location.py is a script that will collect all info for a bus service and log it to a DB
+
+```
+$ ./service_location.py --help
+usage: service_location.py [-h] [-s SERVICEID] [-i INTERVAL] [-d DB]
+                           [--url URL]
+
+This tool will collect all the Real Time Information (RTI) for a particular
+bus service in Wellington NZ, from the Metlink API
+
+optional arguments:
+  -h, --help    show this help message and exit
+  -s SERVICEID  The serivce id for the bus service you would like to capture
+                the data for. Default: 1
+  -i INTERVAL   How often in seconds to requery the API. Default: 60
+  -d DB         The sqlite database to data in. Assumes it already has all the
+                schema in place. Default: service_location.db
+  --url URL     The base URL for the data. Default:
+                https://www.metlink.org.nz/api/v1/ServiceLocation/
+```
 
 The SQL query I am interested with this how far away from a bus when it drops off the list. I am seeing buses dropping off before they get to the stop so I want to quantify this.
 
