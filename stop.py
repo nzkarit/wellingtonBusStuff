@@ -57,8 +57,9 @@ def monitor():
     i = 0
     while True:
         try:
+            date = datetime.datetime.now().strftime("%Y-%m-%d")
             timestamp = datetime.datetime.now().isoformat()
-            logger.debug('Timestamp for: %s' % (timestamp))
+            logger.debug('Timestamp: %s' % (timestamp))            
             with urllib.request.urlopen(url) as response:
                 data = response.read()
                 encoding = response.info().get_content_charset('utf-8')
@@ -66,6 +67,7 @@ def monitor():
                 rows = []
                 for service in jsonData['Services']:
                     row = {}
+                    row['date'] = date
                     row['timestamp'] = timestamp
                     row['LastModified'] = jsonData['LastModified']
                     row['Name'] = jsonData['Stop']['Name']
@@ -112,8 +114,8 @@ def logToDB(rows):
     try:
         c = conn.cursor()
         for row in rows:
-            sql = 'INSERT INTO stop_details (timestamp, LastModified, name, Sms, Farezone, Lat, Long, ServiceID, IsRealtime, VehicleRef, Direction, OperatorRef, OriginStopID, OriginStopName, DestinationStopID, DestinationStopName, AimedArrival, AimedDeparture, ExpectedDeparture, DisplayDeparture, VehicleFeature, DepartureStatus, DisplayDepartureSeconds, Code, TrimmedCode, ServiceName, Mode) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
-            c.execute(sql, (row['timestamp'], row['LastModified'], row['Name'], row['Sms'], row['Farezone'], row['Lat'], row['Long'], row['ServiceID'], row['IsRealtime'], row['VehicleRef'], row['Direction'], row['OperatorRef'], row['OriginStopID'], row['OriginStopName'], row['DestinationStopID'], row['DestinationStopName'], row['AimedArrival'], row['AimedDeparture'], row['ExpectedDeparture'], row['DisplayDeparture'], row['VehicleFeature'], row['DepartureStatus'], row['DisplayDepartureSeconds'], row['Code'], row['TrimmedCode'], row['ServiceName'], row['Mode']))
+            sql = 'INSERT INTO stop_details (date, timestamp, LastModified, name, Sms, Farezone, Lat, Long, ServiceID, IsRealtime, VehicleRef, Direction, OperatorRef, OriginStopID, OriginStopName, DestinationStopID, DestinationStopName, AimedArrival, AimedDeparture, ExpectedDeparture, DisplayDeparture, VehicleFeature, DepartureStatus, DisplayDepartureSeconds, Code, TrimmedCode, ServiceName, Mode) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
+            c.execute(sql, (row['date'], row['timestamp'], row['LastModified'], row['Name'], row['Sms'], row['Farezone'], row['Lat'], row['Long'], row['ServiceID'], row['IsRealtime'], row['VehicleRef'], row['Direction'], row['OperatorRef'], row['OriginStopID'], row['OriginStopName'], row['DestinationStopID'], row['DestinationStopName'], row['AimedArrival'], row['AimedDeparture'], row['ExpectedDeparture'], row['DisplayDeparture'], row['VehicleFeature'], row['DepartureStatus'], row['DisplayDepartureSeconds'], row['Code'], row['TrimmedCode'], row['ServiceName'], row['Mode']))
         conn.commit()
         c.close()
     except Exception as error:

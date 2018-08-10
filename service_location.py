@@ -57,8 +57,9 @@ def monitor():
     i = 0
     while True:
         try:
+            date = datetime.datetime.now().strftime("%Y-%m-%d")
             timestamp = datetime.datetime.now().isoformat()
-            logger.debug('Timestamp for: %s' % (timestamp))
+            logger.debug('Timestamp: %s' % (timestamp))
             with urllib.request.urlopen(url) as response:
                 data = response.read()
                 encoding = response.info().get_content_charset('utf-8')
@@ -66,6 +67,7 @@ def monitor():
                 rows = []
                 for service in jsonData['Services']:
                     row = {}
+                    row['date'] = date
                     row['timestamp'] = timestamp
                     row['LastModified'] = jsonData['LastModified']
                     row['Code'] = service['Service']['Code']
@@ -108,8 +110,8 @@ def logToDB(rows):
     try:
         c = conn.cursor()
         for row in rows:
-            sql = 'INSERT INTO service_location_details (timestamp, LastModified, Code, TrimmedCode, Name, Mode, Link, RecordedAtTime, VehicleRef, ServiceID, HasStarted, DepartureTime, OriginStopID, OriginStopName, DestinationStopID, DestinationStopName, Direction, Bearing, BehindSchedule, VehicleFeature, DelaySeconds, Lat, Long) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
-            c.execute(sql, (row['timestamp'], row['LastModified'], row['Code'], row['TrimmedCode'], row['Name'], row['Mode'], row['Link'], row['RecordedAtTime'], row['VehicleRef'], row['ServiceID'], row['HasStarted'], row['DepartureTime'], row['OriginStopID'], row['OriginStopName'], row['DestinationStopID'], row['DestinationStopName'], row['Direction'], row['Bearing'], row['BehindSchedule'], row['VehicleFeature'], row['DelaySeconds'], row['Lat'], row['Long']))
+            sql = 'INSERT INTO service_location_details (date, timestamp, LastModified, Code, TrimmedCode, Name, Mode, Link, RecordedAtTime, VehicleRef, ServiceID, HasStarted, DepartureTime, OriginStopID, OriginStopName, DestinationStopID, DestinationStopName, Direction, Bearing, BehindSchedule, VehicleFeature, DelaySeconds, Lat, Long) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
+            c.execute(sql, (row['date'], row['timestamp'], row['LastModified'], row['Code'], row['TrimmedCode'], row['Name'], row['Mode'], row['Link'], row['RecordedAtTime'], row['VehicleRef'], row['ServiceID'], row['HasStarted'], row['DepartureTime'], row['OriginStopID'], row['OriginStopName'], row['DestinationStopID'], row['DestinationStopName'], row['Direction'], row['Bearing'], row['BehindSchedule'], row['VehicleFeature'], row['DelaySeconds'], row['Lat'], row['Long']))
         conn.commit()
         c.close()
     except Exception as error:
