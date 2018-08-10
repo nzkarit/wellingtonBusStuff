@@ -109,3 +109,4 @@ service_location.db
 
 #Ignore log files
 *.log
+*.log.*
