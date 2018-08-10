@@ -24,6 +24,7 @@ def argParser():
     parser.add_argument('-i', action='store', type=int, dest='interval', default=60, help='How often in seconds to requery the API. Default: %(default)s')
     parser.add_argument('-d', action='store', type=str, dest='db', default='stop.db', help='The sqlite database to data in. Assumes it already has all the schema in place. Default: %(default)s')
     parser.add_argument('--url', action='store', type=str, dest='url', default='https://www.metlink.org.nz/api/v1/StopDepartures/', help='The base URL for the data. Default: %(default)s')
+    parser.add_argument('-r', action='store', type=int, dest='repeats', default=0, help='How many time to repeat before exiting. 0 means repeat forever. Default: %(default)s')
     return parser.parse_args()
 
 def connectToDB():
@@ -53,6 +54,7 @@ def closeDB():
 def monitor():
     url = arguments.url+str(arguments.stopID)
     logger.debug('URL: %s' % (url))
+    i = 0
     while True:
         try:
             timestamp = datetime.datetime.utcnow().isoformat()
@@ -95,6 +97,13 @@ def monitor():
                 logToDB(rows)
         except Exception as error:
             logger.error('Error--> {}'.format(error))
+        if arguments.repeats > 0:
+            i += 1
+            logger.debug('%s of %s repeats' % (i, arguments.repeats))
+            if i >= arguments.repeats:
+                logger.info('Number of repeats reached, exiting')
+                closeDB()
+                sys.exit(0)
         logger.debug('Sleeping for: %s' % (arguments.interval))
         time.sleep(arguments.interval)
 
