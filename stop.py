@@ -56,6 +56,7 @@ def monitor():
     while True:
         try:
             timestamp = datetime.datetime.utcnow().isoformat()
+            logger.debug('Timestamp for: %s' % (timestamp))
             with urllib.request.urlopen(url) as response:
                 data = response.read()
                 encoding = response.info().get_content_charset('utf-8')
@@ -65,7 +66,9 @@ def monitor():
                     row = {}
                     row['timestamp'] = timestamp
                     row['LastModified'] = jsonData['LastModified']
+                    row['Name'] = jsonData['Stop']['Name']
                     row['Sms'] = jsonData['Stop']['Sms']
+                    row['Farezone'] = jsonData['Stop']['Farezone']
                     row['Lat'] = jsonData['Stop']['Lat']
                     row['Long'] = jsonData['Stop']['Long']
                     row['ServiceID'] = service['ServiceID']
@@ -74,7 +77,9 @@ def monitor():
                     row['Direction'] = service['Direction']
                     row['OperatorRef'] = service['OperatorRef']
                     row['OriginStopID'] = service['OriginStopID']
+                    row['OriginStopName'] = service['OriginStopName']
                     row['DestinationStopID'] = service['DestinationStopID']
+                    row['DestinationStopName'] = service['DestinationStopName']
                     row['AimedArrival'] = service['AimedArrival']
                     row['AimedDeparture'] = service['AimedDeparture']
                     row['ExpectedDeparture'] = service['ExpectedDeparture']
@@ -82,18 +87,24 @@ def monitor():
                     row['VehicleFeature'] = service['VehicleFeature']
                     row['DepartureStatus'] = service['DepartureStatus']
                     row['DisplayDepartureSeconds'] = service['DisplayDepartureSeconds']
+                    row['Code'] = service['Service']['Code']
+                    row['TrimmedCode'] = service['Service']['TrimmedCode']
+                    row['ServiceName'] = service['Service']['Name']
+                    row['Mode'] = service['Service']['Mode']
                     rows.append(row)
                 logToDB(rows)
         except Exception as error:
             logger.error('Error--> {}'.format(error))
+        logger.debug('Sleeping for: %s' % (arguments.interval))
         time.sleep(arguments.interval)
 
 def logToDB(rows):
+    logger.debug('Logging to DB')
     try:
         c = conn.cursor()
         for row in rows:
-            sql = 'INSERT INTO stop_details (timestamp, LastModified, Sms, Lat, Long, ServiceID, IsRealtime, VehicleRef, Direction, OperatorRef, OriginStopID, DestinationStopID, AimedArrival, AimedDeparture, ExpectedDeparture, DisplayDeparture, VehicleFeature, DepartureStatus, DisplayDepartureSeconds) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
-            c.execute(sql, (row['timestamp'], row['LastModified'], row['Sms'], row['Lat'], row['Long'], row['ServiceID'], row['IsRealtime'], row['VehicleRef'], row['Direction'], row['OperatorRef'], row['OriginStopID'], row['DestinationStopID'], row['AimedArrival'], row['AimedDeparture'], row['ExpectedDeparture'], row['DisplayDeparture'], row['VehicleFeature'], row['DepartureStatus'], row['DisplayDepartureSeconds']))
+            sql = 'INSERT INTO stop_details (timestamp, LastModified, name, Sms, Farezone, Lat, Long, ServiceID, IsRealtime, VehicleRef, Direction, OperatorRef, OriginStopID, OriginStopName, DestinationStopID, DestinationStopName, AimedArrival, AimedDeparture, ExpectedDeparture, DisplayDeparture, VehicleFeature, DepartureStatus, DisplayDepartureSeconds, Code, TrimmedCode, ServiceName, Mode) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
+            c.execute(sql, (row['timestamp'], row['LastModified'], row['Name'], row['Sms'], row['Farezone'], row['Lat'], row['Long'], row['ServiceID'], row['IsRealtime'], row['VehicleRef'], row['Direction'], row['OperatorRef'], row['OriginStopID'], row['OriginStopName'], row['DestinationStopID'], row['DestinationStopName'], row['AimedArrival'], row['AimedDeparture'], row['ExpectedDeparture'], row['DisplayDeparture'], row['VehicleFeature'], row['DepartureStatus'], row['DisplayDepartureSeconds'], row['Code'], row['TrimmedCode'], row['ServiceName'], row['Mode']))
         conn.commit()
         c.close()
     except Exception as error:
