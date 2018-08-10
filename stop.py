@@ -57,7 +57,7 @@ def monitor():
     i = 0
     while True:
         try:
-            timestamp = datetime.datetime.utcnow().isoformat()
+            timestamp = datetime.datetime.now().isoformat()
             logger.debug('Timestamp for: %s' % (timestamp))
             with urllib.request.urlopen(url) as response:
                 data = response.read()
