@@ -1,2814 +1,2814 @@
 #!/usr/bin/env sh
-/home/username/wellingtonBusStuff/stop_departures.py -s 1001 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1002 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1062 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1064 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1068 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1069 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1070 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1072 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1100 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1102 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1104 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1105 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1106 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1108 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1110 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1112 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1114 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1116 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1120 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1122 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1124 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1126 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1128 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1130 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1132 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1134 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1136 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1138 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1140 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1142 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1144 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1146 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1147 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1148 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1150 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1152 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1154 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1156 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1158 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1160 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1162 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1164 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1166 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1168 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1170 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1172 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1174 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1176 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1180 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1182 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1184 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1186 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1188 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1190 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1192 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1194 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1200 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1202 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1204 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1206 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1208 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1211 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1213 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1215 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1217 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1219 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1220 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1221 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1222 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1223 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1228 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1230 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1232 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1234 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1236 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1238 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1240 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1242 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1244 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1248 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1249 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1250 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1252 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1254 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1256 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1258 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1260 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1262 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1264 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1266 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1269 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1271 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1272 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1273 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1274 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1275 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1286 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1288 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1290 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1292 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1294 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1300 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1302 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1304 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1306 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1308 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1310 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1312 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1314 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1316 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1318 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1320 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1322 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1324 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1326 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1328 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1330 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1332 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1334 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1335 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1350 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1352 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1354 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1356 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1358 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1360 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1362 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1364 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1366 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1368 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1370 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1372 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1374 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1376 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1378 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1380 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1382 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1384 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1386 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1410 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1411 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1412 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1413 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1414 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1415 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1416 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1417 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1418 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1419 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1420 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1421 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1422 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1423 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1424 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1425 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1426 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1432 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1434 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1436 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1438 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1452 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1454 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1456 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1461 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1465 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1468 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1470 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1472 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1474 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1477 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1478 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1480 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1482 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1484 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1487 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1489 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1500 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1501 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1517 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1522 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1524 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1526 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1528 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1530 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1532 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1534 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1536 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1538 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1540 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1542 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1544 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1546 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1548 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1550 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1552 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1554 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1556 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1558 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1560 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1562 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1564 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1566 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1568 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1570 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1572 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1574 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1580 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1582 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1584 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1586 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1588 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1590 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1592 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1594 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1596 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1604 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1606 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1608 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1610 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1612 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1614 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1616 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1618 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1620 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1623 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1626 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1627 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1628 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1629 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1630 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1631 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1634 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1637 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1638 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1708 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1710 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1712 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1714 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1716 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1718 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1720 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1722 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1724 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1726 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1728 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1729 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1730 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1731 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1732 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1733 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1734 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1735 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1736 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1737 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1738 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1740 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1741 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1742 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1743 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1744 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1746 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1748 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1750 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1751 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1754 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1755 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1756 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1758 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1759 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1760 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1762 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1765 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1766 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1768 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1770 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1772 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1774 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1776 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1777 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1800 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1801 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1802 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1803 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1804 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1805 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1806 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1807 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1808 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1810 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1811 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1812 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1813 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1815 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1816 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1817 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1820 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1822 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1825 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1827 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1828 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1830 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1831 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1832 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1833 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1834 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1835 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1836 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1837 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1838 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1839 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1840 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1841 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1842 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1843 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1844 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1845 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1846 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1847 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1850 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1851 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1852 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1853 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1854 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1855 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1856 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1857 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1858 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1859 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1860 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1861 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1862 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1863 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1864 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1865 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1866 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1868 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1870 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1871 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1872 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1873 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1874 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1875 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1876 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1877 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1878 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1879 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1880 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1881 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1883 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1884 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1885 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1886 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1890 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1891 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1892 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1893 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1894 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1895 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1897 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1898 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1899 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1900 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1902 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1903 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1904 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1905 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1906 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1907 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1908 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1911 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1912 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1915 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1916 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1917 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1919 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1920 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1921 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1922 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1925 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1927 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1928 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1930 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1931 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1932 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1933 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1935 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1936 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1937 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1938 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1939 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1940 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1941 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1942 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1943 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1944 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1948 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1949 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1950 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1951 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1952 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1953 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1954 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1956 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1957 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1960 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1961 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1962 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1964 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1965 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1966 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1967 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1968 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1969 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1970 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1971 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1972 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1973 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1974 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 1977 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2001 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2002 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2003 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2005 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2006 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2008 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2010 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2011 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2012 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2014 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2016 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2022 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2024 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2025 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2026 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2028 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2030 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2100 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2102 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2104 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2105 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2106 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2108 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2110 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2111 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2112 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2114 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2116 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2118 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2120 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2122 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2124 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2125 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2126 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2128 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2130 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2132 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2134 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2136 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2140 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2142 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2144 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2146 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2148 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2150 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2152 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2154 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2156 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2158 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2160 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2162 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2164 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2166 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2168 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2170 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2172 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2174 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2176 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2178 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2300 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2301 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2302 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2304 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2306 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2308 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2310 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2312 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2318 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2320 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2321 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2322 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2323 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2324 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2326 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2328 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2330 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2331 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2332 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2333 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2334 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2335 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2336 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2337 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2338 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2340 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2342 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2344 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2346 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2348 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2350 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2352 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2354 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2356 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2500 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2502 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2504 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2506 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2508 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2510 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2512 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2514 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2516 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2518 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2520 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2521 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2522 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2523 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2524 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2526 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2528 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2530 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2532 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2533 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2534 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2536 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2538 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2540 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2544 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2546 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2548 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2550 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2552 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2554 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2556 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2558 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2560 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2562 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2564 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2566 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2568 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2570 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2572 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2574 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2576 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2578 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2580 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2582 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2584 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2586 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2588 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2590 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2592 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2594 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2596 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2600 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2602 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2604 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2700 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2702 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2704 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2706 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2710 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2712 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2713 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2714 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2716 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2718 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2720 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2722 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2724 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2726 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2728 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2730 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2732 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2734 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2736 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2737 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2738 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2740 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2744 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2748 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2750 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2752 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2754 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2756 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2758 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2760 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2761 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2762 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2764 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2766 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2768 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2769 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2770 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2771 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2773 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2774 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2776 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2777 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2778 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2779 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2780 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2781 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2783 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2784 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2785 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2786 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2788 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2789 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2790 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2800 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2801 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2802 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2804 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2806 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2808 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2810 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2812 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2814 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2816 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2821 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2822 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2824 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2826 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2828 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2830 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2832 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2834 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2836 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2838 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2840 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2841 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2842 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2844 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2845 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2846 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2848 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2850 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2852 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2854 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2856 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2858 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2860 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2862 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2866 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2868 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2870 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2871 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2872 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2873 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2874 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2876 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2878 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2880 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2881 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2884 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2900 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2901 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2902 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2904 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2906 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2908 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2910 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2911 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2912 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2913 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2914 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2916 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2918 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2920 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2922 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2924 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2926 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2928 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2929 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2930 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2932 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2934 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2936 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2938 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2940 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2942 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2944 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2950 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2952 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2954 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2955 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2956 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 2958 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3000 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3008 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3009 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3010 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3012 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3014 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3016 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3018 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3020 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3022 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3024 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3026 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3028 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3030 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3034 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3036 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3038 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3040 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3050 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3052 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3054 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3056 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3058 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3060 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3062 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3064 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3066 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3068 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3070 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3072 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3074 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3076 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3078 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3080 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3081 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3200 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3202 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3204 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3206 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3208 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3210 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3212 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3214 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3216 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3218 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3220 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3222 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3224 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3226 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3228 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3230 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3232 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3234 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3236 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3237 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3238 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3239 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3240 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3242 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3244 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3246 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3250 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3252 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3254 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3256 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3258 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3260 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3262 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3263 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3264 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3266 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3268 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3270 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3271 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3272 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3273 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3274 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3275 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3276 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3277 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3279 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3295 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3297 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3299 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3400 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3402 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3404 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3406 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3408 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3410 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3412 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3414 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3416 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3418 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3420 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3422 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3424 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3426 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3428 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3430 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3432 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3434 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3435 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3448 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3450 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3451 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3452 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3454 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3456 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3458 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3460 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3462 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3464 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3466 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3468 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3470 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3472 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3474 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3476 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3478 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3480 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3482 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3500 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3502 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3504 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3506 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3508 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3510 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3512 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3514 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3516 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3518 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3520 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3522 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3524 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3526 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3528 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3530 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3532 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3534 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3536 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3538 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3540 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3542 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3544 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3546 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3548 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3550 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3600 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3602 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3604 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3606 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3608 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3610 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3612 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3614 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3616 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3618 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3620 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3622 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3624 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3700 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3702 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3704 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3705 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3709 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3710 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3752 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3754 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3756 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3758 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3760 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3762 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3764 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3766 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3768 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3770 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3772 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3774 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3776 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3778 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3780 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3808 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3809 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3810 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3813 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3814 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3816 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3817 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3818 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3820 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3821 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3822 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3824 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3825 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3826 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3827 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3828 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3829 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3830 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3832 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3833 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3834 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3900 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3902 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3903 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3904 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3906 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3908 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3910 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3911 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3912 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3914 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3916 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3918 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3920 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3922 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3926 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3927 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3928 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3929 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3930 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3932 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3936 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3940 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3944 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3946 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3948 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3950 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3952 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3954 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3956 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3958 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3960 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3961 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3962 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3964 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3966 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3968 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3969 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3970 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3972 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3974 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3976 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3978 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3980 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 3982 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4113 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4114 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4115 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4116 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4117 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4118 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4119 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4120 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4121 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4122 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4123 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4125 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4126 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4127 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4128 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4129 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4130 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4131 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4132 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4133 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4134 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4135 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4136 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4137 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4138 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4139 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4310 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4311 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4312 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4313 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4314 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4315 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4316 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4317 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4319 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4320 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4321 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4322 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4323 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4324 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4325 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4326 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4327 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4328 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4329 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4330 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4331 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4332 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4341 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4342 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4343 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4344 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4345 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4346 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4347 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4348 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4349 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4350 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4351 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4352 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4360 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4361 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4362 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4363 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4364 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4365 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4366 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4367 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4368 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4369 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4381 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4382 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4383 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4384 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4385 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4386 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4387 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4388 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4389 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4390 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4391 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4392 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4393 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4394 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4395 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4396 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4402 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4403 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4404 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4405 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4406 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4407 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4408 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4409 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4410 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4411 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4412 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4413 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4414 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4415 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4416 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4417 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4418 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4419 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4420 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4421 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4422 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4423 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4424 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4425 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4426 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4427 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4428 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4429 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4430 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4431 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4432 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4433 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4447 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4448 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4449 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4450 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4451 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4452 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4453 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4454 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4455 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4456 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4457 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4459 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4460 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4461 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4469 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4500 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4502 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4504 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4506 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4508 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4510 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4520 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4522 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4524 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4526 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4911 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4912 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4913 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4914 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4915 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4916 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4917 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4918 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4921 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4922 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4923 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4924 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4925 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4926 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4927 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4928 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4929 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4930 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4931 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4932 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4934 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4935 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4936 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4940 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4941 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4942 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4943 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4944 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4945 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4946 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 4947 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5000 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5002 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5006 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5008 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5010 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5011 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5012 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5014 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5015 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5016 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5018 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5020 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5022 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5024 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5025 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5026 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5028 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5111 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5112 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5113 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5114 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5115 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5116 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5117 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5118 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5119 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5120 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5121 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5123 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5124 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5125 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5126 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5127 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5128 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5129 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5130 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5131 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5132 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5133 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5134 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5135 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5136 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5138 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5139 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5305 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5306 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5312 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5313 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5315 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5316 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5317 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5318 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5319 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5320 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5321 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5322 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5323 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5324 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5325 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5326 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5327 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5328 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5329 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5330 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5331 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5332 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5341 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5342 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5343 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5344 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5345 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5346 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5347 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5348 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5349 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5350 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5351 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5360 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5361 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5362 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5363 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5364 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5365 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5366 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5367 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5368 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5369 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5380 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5381 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5382 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5383 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5384 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5385 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5386 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5388 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5389 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5390 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5391 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5392 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5393 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5394 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5395 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5401 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5402 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5403 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5404 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5405 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5406 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5407 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5408 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5409 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5410 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5411 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5412 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5413 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5414 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5415 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5416 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5417 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5418 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5419 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5420 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5421 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5422 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5423 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5424 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5425 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5426 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5427 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5428 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5429 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5430 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5431 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5432 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5433 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5435 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5446 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5447 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5448 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5449 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5450 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5451 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5452 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5453 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5454 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5455 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5456 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5457 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5459 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5460 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5461 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5469 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5486 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5488 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5490 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5492 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5494 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5496 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5498 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5499 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5500 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5502 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5506 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5508 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5510 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5513 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5514 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5515 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5516 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5520 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5534 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5911 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5912 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5913 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5914 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5915 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5916 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5917 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5918 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5920 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5921 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5922 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5923 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5924 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5925 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5926 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5927 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5928 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5929 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5930 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5931 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5932 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5933 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5934 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5935 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5936 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5940 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5941 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5942 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5943 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5944 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5945 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 5946 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6000 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6001 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6010 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6012 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6013 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6014 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6015 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6016 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6017 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6019 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6021 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6022 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6023 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6024 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6025 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6026 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6027 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6028 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6032 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6033 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6034 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6035 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6036 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6037 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6038 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6039 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6040 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6041 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6042 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6043 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6044 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6045 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6046 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6047 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6048 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6049 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6050 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6052 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6055 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6062 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6064 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6065 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6066 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6067 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6068 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6069 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6070 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6071 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6080 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6081 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6086 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6087 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6088 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6089 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6091 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6092 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6093 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6094 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6095 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6096 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6097 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6098 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6099 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6100 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6101 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6119 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6120 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6121 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6123 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6124 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6125 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6126 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6127 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6128 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6129 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6131 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6132 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6133 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6134 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6140 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6141 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6142 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6143 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6144 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6145 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6146 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6153 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6155 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6156 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6157 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6158 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6160 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6161 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6162 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6163 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6212 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6213 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6214 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6215 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6216 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6217 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6218 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6219 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6220 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6221 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6222 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6223 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6224 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6232 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6234 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6235 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6236 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6237 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6238 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6239 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6240 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6241 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6242 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6243 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6244 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6245 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6246 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6251 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6252 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6253 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6254 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6255 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6256 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6257 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6258 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6259 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6260 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6261 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6262 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6263 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6264 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6265 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6266 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6267 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6268 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6269 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6270 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6271 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6272 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6273 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6274 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6281 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6282 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6283 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6285 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6286 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6287 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6289 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6290 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6291 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6292 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6293 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6301 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6302 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6303 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6328 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6329 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6330 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6331 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6332 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6333 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6334 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6335 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6336 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6337 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6338 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6345 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6346 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6417 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6418 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6419 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6510 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6512 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6513 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6514 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6515 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6516 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6517 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6518 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6519 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6521 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6522 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6524 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6525 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6526 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6527 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6528 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6529 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6530 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6531 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6532 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6533 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6534 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6535 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6540 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6541 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6542 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6544 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6545 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6546 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6547 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6548 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6549 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6550 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6551 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6552 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6553 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6557 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6558 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6559 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6562 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6563 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6564 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6565 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6566 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6567 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6568 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6569 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6570 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6571 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6572 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6708 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6710 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6711 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6712 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6713 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6714 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6715 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6716 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6718 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6719 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6720 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6721 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6722 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6723 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6724 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6725 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6726 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6727 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6728 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6729 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6730 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6732 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6733 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6746 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6748 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6749 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6750 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6751 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6752 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6753 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6754 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6755 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6761 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6762 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6763 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6764 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6765 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6766 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6767 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6768 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6769 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6770 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6771 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6772 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6773 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6782 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6783 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6784 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6785 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6786 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6787 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6791 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6792 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6793 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6794 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6796 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6906 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6908 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6909 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6910 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6911 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6913 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6914 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6915 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6917 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6918 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6920 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6921 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6922 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6924 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6925 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6926 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6927 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6928 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6929 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6930 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6931 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6932 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6933 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6934 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6935 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6936 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6937 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6941 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6942 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6946 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6947 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6948 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6949 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6950 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6951 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6952 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6954 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6956 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6957 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6958 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6959 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 6960 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7012 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7013 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7014 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7015 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7016 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7017 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7018 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7019 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7020 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7021 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7022 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7023 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7024 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7025 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7026 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7027 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7028 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7032 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7033 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7034 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7035 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7036 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7037 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7038 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7039 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7040 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7041 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7042 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7043 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7044 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7045 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7046 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7047 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7048 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7049 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7050 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7051 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7052 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7062 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7063 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7064 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7065 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7066 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7068 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7069 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7070 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7071 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7072 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7080 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7083 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7086 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7087 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7088 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7089 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7092 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7093 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7094 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7095 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7096 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7097 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7098 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7099 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7100 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7101 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7120 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7121 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7122 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7123 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7124 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7125 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7126 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7128 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7129 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7131 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7132 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7133 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7134 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7140 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7141 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7142 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7143 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7144 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7145 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7146 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7153 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7155 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7157 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7158 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7160 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7161 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7162 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7163 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7212 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7213 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7214 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7215 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7216 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7217 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7218 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7219 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7220 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7221 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7222 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7223 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7224 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7232 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7234 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7235 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7236 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7237 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7238 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7239 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7240 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7241 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7242 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7244 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7245 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7246 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7251 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7252 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7253 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7255 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7256 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7257 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7258 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7259 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7260 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7261 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7262 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7263 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7264 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7265 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7266 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7267 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7268 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7269 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7270 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7271 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7281 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7282 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7283 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7284 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7285 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7287 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7288 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7289 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7290 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7291 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7292 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7293 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7294 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7295 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7296 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7297 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7298 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7301 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7303 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7327 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7328 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7330 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7331 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7332 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7333 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7334 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7335 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7336 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7337 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7338 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7345 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7346 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7399 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7417 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7418 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7424 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7512 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7514 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7515 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7517 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7518 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7519 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7520 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7521 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7522 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7523 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7524 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7525 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7526 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7527 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7529 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7540 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7541 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7542 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7543 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7544 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7545 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7546 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7547 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7548 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7549 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7550 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7551 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7552 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7553 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7557 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7562 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7563 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7564 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7565 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7566 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7567 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7568 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7569 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7570 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7571 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7572 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7575 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7700 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7708 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7709 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7711 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7712 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7713 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7714 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7715 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7716 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7718 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7719 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7720 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7721 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7722 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7723 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7724 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7725 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7726 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7728 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7729 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7731 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7732 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7746 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7748 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7749 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7750 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7751 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7752 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7753 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7754 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7755 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7761 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7762 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7763 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7764 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7766 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7767 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7768 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7769 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7770 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7771 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7772 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7773 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7774 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7782 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7784 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7785 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7786 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7787 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7788 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7791 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7792 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7793 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7794 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7795 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7796 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7907 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7908 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7909 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7910 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7911 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7912 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7913 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7914 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7915 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7917 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7918 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7920 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7922 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7923 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7924 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7925 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7926 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7927 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7928 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7929 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7930 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7931 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7932 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7933 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7934 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7935 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7936 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7937 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7939 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7941 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7942 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7946 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7947 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7948 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7949 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7950 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7951 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7952 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7953 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7954 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7955 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7956 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7958 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7959 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 7960 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8000 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8001 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8002 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8003 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8004 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8005 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8006 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8007 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8008 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8009 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8017 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8018 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8019 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8020 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8021 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8046 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8047 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8048 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8049 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8050 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8051 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8052 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8053 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8054 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8055 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8057 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8058 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8059 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8060 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8061 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8062 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8063 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8064 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8065 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8066 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8067 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8068 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8069 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8070 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8071 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8072 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8073 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8090 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8091 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8092 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8093 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8094 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8096 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8097 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8098 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8099 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8100 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8101 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8102 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8104 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8105 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8106 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8110 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8111 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8112 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8113 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8115 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8116 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8117 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8118 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8120 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8121 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8122 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8123 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8135 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8136 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8140 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8142 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8143 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8145 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8146 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8147 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8148 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8152 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8153 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8154 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8155 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8156 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8157 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8158 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8159 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8160 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8161 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8163 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8164 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8165 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8166 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8167 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8168 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8169 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8170 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8171 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8172 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8173 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8174 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8175 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8176 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8177 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8178 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8180 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8201 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8202 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8203 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8204 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8205 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8206 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8207 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8208 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8210 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8211 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8212 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8213 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8214 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8215 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8216 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8217 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8219 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8224 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8225 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8226 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8227 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8228 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8229 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8231 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8232 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8233 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8234 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8235 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8236 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8237 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8239 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8240 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8241 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8242 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8246 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8247 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8249 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8250 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8251 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8253 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8254 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8255 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8256 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8259 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8260 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8269 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8270 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8271 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8272 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8273 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8274 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8275 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8276 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8277 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8278 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8279 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8280 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8281 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8282 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8283 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8284 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8285 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8286 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8287 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8288 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8289 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8290 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8291 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8292 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8293 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8294 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8295 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8296 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8297 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8298 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8299 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8303 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8304 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8305 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8306 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8307 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8309 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8310 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8311 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8312 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8313 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8315 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8321 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8322 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8323 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8324 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8325 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8326 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8327 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8328 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8329 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8331 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8332 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8333 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8334 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8335 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8336 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8347 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8348 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8349 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8350 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8351 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8352 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8354 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8355 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8356 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8357 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8358 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8359 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8360 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8361 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8362 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8363 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8364 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8365 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8366 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8369 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8370 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8371 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8372 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8373 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8374 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8375 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8376 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8377 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8410 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8413 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8414 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8415 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8416 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8417 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8418 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8419 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8420 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8422 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8423 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8424 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8462 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8463 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8464 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8465 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8466 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8467 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8501 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8502 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8503 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8504 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8505 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8506 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8507 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8508 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8509 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8510 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8511 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8514 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8515 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8516 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8517 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8518 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8519 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8527 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8528 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8529 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8530 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8531 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8532 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8533 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8534 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8535 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8536 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8538 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8539 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8540 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8542 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8543 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8544 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8547 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8548 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8550 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8551 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8552 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8553 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8554 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8555 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8556 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8558 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8559 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8568 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8569 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8570 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8571 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8572 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8573 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8575 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8576 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8579 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8580 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8582 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8584 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8585 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8586 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8587 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8588 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8601 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8602 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8604 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8607 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8611 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8612 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8613 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8614 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8615 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8621 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8622 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8624 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8625 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8627 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8633 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8689 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8690 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8691 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8692 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8693 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8694 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8700 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8703 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8704 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8706 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8730 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8731 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8732 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8733 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8734 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8735 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8737 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8748 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8779 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8780 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8781 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8782 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8838 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8839 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8840 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8841 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8842 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8843 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8844 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8845 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8846 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8847 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8848 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8849 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8850 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8851 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8852 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8853 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8854 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8855 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8856 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8857 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8858 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8862 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8901 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8902 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8903 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8904 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8905 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8907 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8908 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8909 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8910 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8911 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8918 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8919 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8920 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8921 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8952 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8959 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8960 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8961 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8962 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8963 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8964 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8965 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8966 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8967 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8968 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8969 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8970 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8971 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8977 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8978 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8979 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8980 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8981 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8982 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8983 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8984 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8985 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8991 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8992 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8993 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8997 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8998 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 8999 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9000 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9001 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9002 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9003 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9004 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9005 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9007 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9008 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9009 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9017 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9018 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9019 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9020 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9047 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9049 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9050 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9051 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9052 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9053 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9054 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9055 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9056 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9057 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9058 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9059 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9060 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9061 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9062 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9063 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9064 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9065 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9066 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9067 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9068 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9069 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9070 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9071 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9072 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9090 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9092 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9093 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9098 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9099 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9100 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9101 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9102 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9104 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9105 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9106 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9110 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9111 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9112 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9113 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9114 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9115 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9117 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9118 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9121 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9122 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9130 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9131 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9132 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9135 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9136 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9140 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9142 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9143 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9144 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9145 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9146 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9147 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9148 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9150 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9151 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9152 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9153 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9155 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9156 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9157 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9158 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9159 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9160 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9162 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9163 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9164 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9165 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9166 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9167 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9168 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9169 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9170 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9171 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9172 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9173 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9174 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9175 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9176 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9177 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9178 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9180 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9197 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9199 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9200 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9201 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9202 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9203 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9204 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9205 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9206 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9207 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9208 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9210 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9211 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9212 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9213 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9214 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9215 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9216 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9217 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9218 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9219 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9223 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9224 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9225 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9226 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9227 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9228 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9229 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9231 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9232 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9233 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9234 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9235 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9236 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9237 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9238 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9239 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9240 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9241 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9242 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9245 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9246 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9247 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9249 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9250 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9251 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9253 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9254 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9255 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9256 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9257 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9260 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9268 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9269 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9270 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9271 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9272 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9273 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9274 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9275 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9276 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9277 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9278 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9279 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9280 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9281 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9282 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9283 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9284 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9285 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9286 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9287 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9288 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9290 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9292 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9293 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9294 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9296 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9297 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9298 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9299 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9303 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9305 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9306 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9308 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9309 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9310 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9312 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9313 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9314 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9315 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9316 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9321 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9322 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9323 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9324 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9325 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9326 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9327 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9328 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9329 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9332 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9333 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9336 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9337 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9347 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9348 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9349 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9350 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9351 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9353 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9354 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9355 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9356 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9357 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9358 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9360 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9361 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9362 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9363 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9364 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9365 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9366 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9367 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9368 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9369 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9370 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9371 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9372 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9373 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9374 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9375 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9376 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9377 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9401 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9402 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9403 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9404 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9405 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9406 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9407 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9408 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9409 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9410 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9411 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9412 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9414 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9415 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9416 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9417 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9418 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9419 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9420 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9422 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9423 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9424 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9461 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9462 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9463 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9464 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9465 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9466 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9501 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9502 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9514 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9515 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9516 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9517 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9518 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9519 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9525 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9526 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9527 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9528 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9529 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9530 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9531 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9532 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9533 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9534 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9535 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9536 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9538 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9539 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9540 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9541 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9542 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9543 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9544 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9545 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9546 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9548 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9550 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9551 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9552 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9553 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9554 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9555 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9556 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9558 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9559 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9567 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9568 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9569 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9570 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9571 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9572 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9573 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9574 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9575 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9576 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9577 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9582 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9583 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9584 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9585 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9586 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9587 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9601 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9602 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9604 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9605 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9607 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9611 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9612 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9613 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9614 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9615 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9621 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9622 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9623 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9624 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9625 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9626 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9627 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9688 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9689 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9690 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9691 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9692 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9693 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9694 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9700 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9703 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9704 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9706 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9730 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9731 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9732 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9733 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9735 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9736 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9739 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9748 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9779 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9780 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9781 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9782 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9837 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9838 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9839 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9840 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9841 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9842 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9843 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9844 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9845 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9846 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9847 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9848 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9849 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9850 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9851 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9852 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9853 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9854 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9855 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9856 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9857 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9858 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9901 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9902 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9903 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9904 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9905 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9906 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9907 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9908 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9909 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9910 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9911 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9912 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9913 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9915 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9916 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9917 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9918 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9919 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9920 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9951 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9953 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9954 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9955 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9956 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9957 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9958 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9959 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9960 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9961 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9962 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9963 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9964 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9965 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9966 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9967 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9968 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9969 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9970 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9977 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9978 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9979 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9980 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9981 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9982 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9983 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9984 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9985 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9995 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9997 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9998 -i 15 -r 4 --dbtype mariadb &
-/home/username/wellingtonBusStuff/stop_departures.py -s 9999 -i 15 -r 4 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1001 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1002 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1062 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1064 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1068 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1069 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1070 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1072 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1100 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1102 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1104 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1105 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1106 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1108 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1110 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1112 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1114 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1116 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1120 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1122 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1124 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1126 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1128 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1130 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1132 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1134 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1136 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1138 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1140 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1142 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1144 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1146 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1147 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1148 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1150 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1152 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1154 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1156 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1158 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1160 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1162 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1164 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1166 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1168 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1170 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1172 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1174 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1176 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1180 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1182 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1184 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1186 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1188 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1190 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1192 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1194 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1200 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1202 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1204 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1206 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1208 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1211 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1213 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1215 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1217 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1219 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1220 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1221 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1222 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1223 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1228 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1230 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1232 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1234 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1236 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1238 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1240 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1242 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1244 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1248 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1249 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1250 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1252 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1254 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1256 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1258 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1260 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1262 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1264 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1266 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1269 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1271 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1272 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1273 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1274 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1275 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1286 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1288 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1290 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1292 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1294 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1300 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1302 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1304 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1306 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1308 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1310 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1312 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1314 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1316 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1318 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1320 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1322 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1324 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1326 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1328 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1330 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1332 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1334 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1335 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1350 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1352 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1354 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1356 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1358 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1360 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1362 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1364 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1366 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1368 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1370 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1372 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1374 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1376 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1378 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1380 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1382 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1384 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1386 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1410 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1411 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1412 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1413 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1414 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1415 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1416 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1417 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1418 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1419 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1420 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1421 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1422 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1423 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1424 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1425 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1426 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1432 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1434 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1436 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1438 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1452 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1454 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1456 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1461 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1465 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1468 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1470 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1472 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1474 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1477 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1478 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1480 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1482 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1484 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1487 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1489 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1500 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1501 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1517 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1522 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1524 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1526 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1528 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1530 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1532 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1534 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1536 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1538 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1540 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1542 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1544 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1546 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1548 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1550 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1552 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1554 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1556 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1558 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1560 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1562 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1564 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1566 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1568 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1570 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1572 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1574 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1580 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1582 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1584 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1586 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1588 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1590 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1592 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1594 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1596 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1604 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1606 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1608 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1610 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1612 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1614 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1616 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1618 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1620 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1623 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1626 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1627 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1628 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1629 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1630 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1631 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1634 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1637 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1638 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1708 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1710 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1712 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1714 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1716 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1718 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1720 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1722 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1724 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1726 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1728 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1729 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1730 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1731 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1732 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1733 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1734 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1735 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1736 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1737 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1738 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1740 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1741 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1742 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1743 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1744 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1746 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1748 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1750 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1751 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1754 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1755 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1756 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1758 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1759 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1760 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1762 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1765 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1766 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1768 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1770 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1772 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1774 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1776 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1777 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1800 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1801 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1802 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1803 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1804 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1805 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1806 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1807 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1808 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1810 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1811 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1812 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1813 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1815 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1816 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1817 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1820 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1822 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1825 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1827 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1828 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1830 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1831 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1832 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1833 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1834 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1835 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1836 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1837 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1838 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1839 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1840 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1841 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1842 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1843 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1844 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1845 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1846 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1847 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1850 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1851 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1852 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1853 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1854 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1855 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1856 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1857 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1858 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1859 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1860 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1861 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1862 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1863 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1864 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1865 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1866 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1868 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1870 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1871 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1872 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1873 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1874 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1875 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1876 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1877 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1878 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1879 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1880 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1881 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1883 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1884 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1885 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1886 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1890 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1891 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1892 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1893 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1894 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1895 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1897 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1898 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1899 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1900 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1902 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1903 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1904 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1905 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1906 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1907 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1908 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1911 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1912 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1915 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1916 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1917 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1919 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1920 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1921 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1922 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1925 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1927 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1928 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1930 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1931 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1932 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1933 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1935 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1936 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1937 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1938 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1939 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1940 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1941 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1942 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1943 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1944 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1948 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1949 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1950 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1951 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1952 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1953 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1954 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1956 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1957 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1960 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1961 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1962 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1964 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1965 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1966 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1967 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1968 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1969 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1970 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1971 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1972 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1973 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1974 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 1977 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2001 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2002 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2003 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2005 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2006 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2008 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2010 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2011 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2012 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2014 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2016 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2022 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2024 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2025 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2026 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2028 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2030 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2100 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2102 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2104 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2105 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2106 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2108 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2110 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2111 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2112 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2114 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2116 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2118 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2120 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2122 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2124 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2125 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2126 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2128 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2130 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2132 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2134 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2136 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2140 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2142 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2144 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2146 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2148 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2150 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2152 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2154 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2156 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2158 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2160 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2162 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2164 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2166 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2168 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2170 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2172 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2174 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2176 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2178 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2300 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2301 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2302 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2304 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2306 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2308 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2310 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2312 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2318 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2320 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2321 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2322 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2323 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2324 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2326 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2328 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2330 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2331 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2332 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2333 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2334 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2335 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2336 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2337 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2338 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2340 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2342 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2344 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2346 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2348 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2350 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2352 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2354 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2356 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2500 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2502 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2504 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2506 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2508 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2510 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2512 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2514 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2516 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2518 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2520 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2521 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2522 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2523 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2524 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2526 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2528 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2530 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2532 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2533 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2534 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2536 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2538 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2540 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2544 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2546 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2548 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2550 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2552 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2554 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2556 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2558 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2560 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2562 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2564 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2566 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2568 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2570 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2572 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2574 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2576 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2578 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2580 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2582 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2584 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2586 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2588 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2590 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2592 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2594 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2596 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2600 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2602 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2604 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2700 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2702 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2704 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2706 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2710 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2712 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2713 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2714 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2716 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2718 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2720 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2722 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2724 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2726 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2728 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2730 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2732 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2734 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2736 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2737 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2738 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2740 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2744 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2748 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2750 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2752 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2754 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2756 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2758 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2760 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2761 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2762 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2764 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2766 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2768 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2769 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2770 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2771 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2773 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2774 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2776 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2777 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2778 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2779 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2780 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2781 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2783 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2784 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2785 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2786 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2788 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2789 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2790 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2800 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2801 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2802 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2804 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2806 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2808 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2810 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2812 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2814 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2816 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2821 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2822 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2824 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2826 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2828 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2830 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2832 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2834 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2836 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2838 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2840 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2841 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2842 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2844 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2845 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2846 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2848 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2850 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2852 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2854 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2856 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2858 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2860 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2862 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2866 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2868 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2870 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2871 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2872 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2873 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2874 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2876 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2878 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2880 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2881 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2884 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2900 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2901 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2902 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2904 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2906 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2908 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2910 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2911 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2912 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2913 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2914 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2916 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2918 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2920 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2922 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2924 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2926 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2928 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2929 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2930 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2932 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2934 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2936 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2938 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2940 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2942 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2944 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2950 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2952 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2954 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2955 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2956 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 2958 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3000 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3008 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3009 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3010 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3012 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3014 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3016 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3018 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3020 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3022 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3024 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3026 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3028 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3030 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3034 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3036 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3038 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3040 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3050 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3052 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3054 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3056 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3058 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3060 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3062 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3064 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3066 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3068 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3070 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3072 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3074 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3076 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3078 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3080 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3081 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3200 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3202 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3204 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3206 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3208 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3210 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3212 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3214 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3216 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3218 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3220 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3222 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3224 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3226 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3228 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3230 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3232 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3234 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3236 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3237 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3238 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3239 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3240 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3242 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3244 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3246 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3250 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3252 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3254 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3256 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3258 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3260 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3262 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3263 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3264 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3266 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3268 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3270 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3271 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3272 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3273 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3274 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3275 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3276 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3277 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3279 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3295 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3297 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3299 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3400 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3402 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3404 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3406 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3408 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3410 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3412 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3414 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3416 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3418 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3420 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3422 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3424 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3426 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3428 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3430 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3432 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3434 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3435 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3448 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3450 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3451 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3452 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3454 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3456 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3458 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3460 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3462 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3464 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3466 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3468 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3470 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3472 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3474 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3476 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3478 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3480 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3482 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3500 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3502 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3504 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3506 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3508 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3510 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3512 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3514 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3516 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3518 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3520 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3522 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3524 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3526 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3528 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3530 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3532 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3534 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3536 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3538 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3540 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3542 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3544 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3546 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3548 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3550 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3600 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3602 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3604 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3606 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3608 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3610 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3612 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3614 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3616 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3618 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3620 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3622 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3624 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3700 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3702 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3704 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3705 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3709 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3710 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3752 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3754 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3756 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3758 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3760 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3762 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3764 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3766 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3768 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3770 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3772 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3774 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3776 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3778 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3780 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3808 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3809 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3810 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3813 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3814 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3816 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3817 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3818 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3820 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3821 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3822 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3824 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3825 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3826 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3827 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3828 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3829 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3830 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3832 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3833 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3834 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3900 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3902 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3903 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3904 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3906 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3908 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3910 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3911 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3912 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3914 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3916 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3918 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3920 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3922 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3926 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3927 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3928 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3929 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3930 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3932 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3936 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3940 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3944 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3946 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3948 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3950 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3952 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3954 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3956 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3958 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3960 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3961 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3962 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3964 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3966 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3968 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3969 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3970 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3972 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3974 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3976 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3978 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3980 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 3982 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4113 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4114 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4115 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4116 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4117 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4118 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4119 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4120 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4121 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4122 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4123 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4125 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4126 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4127 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4128 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4129 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4130 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4131 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4132 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4133 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4134 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4135 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4136 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4137 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4138 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4139 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4310 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4311 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4312 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4313 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4314 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4315 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4316 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4317 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4319 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4320 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4321 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4322 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4323 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4324 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4325 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4326 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4327 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4328 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4329 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4330 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4331 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4332 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4341 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4342 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4343 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4344 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4345 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4346 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4347 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4348 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4349 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4350 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4351 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4352 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4360 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4361 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4362 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4363 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4364 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4365 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4366 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4367 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4368 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4369 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4381 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4382 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4383 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4384 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4385 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4386 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4387 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4388 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4389 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4390 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4391 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4392 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4393 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4394 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4395 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4396 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4402 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4403 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4404 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4405 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4406 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4407 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4408 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4409 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4410 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4411 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4412 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4413 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4414 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4415 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4416 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4417 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4418 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4419 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4420 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4421 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4422 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4423 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4424 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4425 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4426 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4427 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4428 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4429 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4430 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4431 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4432 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4433 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4447 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4448 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4449 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4450 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4451 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4452 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4453 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4454 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4455 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4456 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4457 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4459 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4460 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4461 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4469 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4500 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4502 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4504 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4506 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4508 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4510 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4520 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4522 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4524 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4526 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4911 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4912 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4913 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4914 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4915 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4916 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4917 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4918 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4921 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4922 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4923 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4924 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4925 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4926 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4927 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4928 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4929 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4930 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4931 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4932 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4934 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4935 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4936 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4940 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4941 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4942 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4943 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4944 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4945 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4946 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 4947 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5000 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5002 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5006 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5008 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5010 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5011 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5012 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5014 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5015 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5016 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5018 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5020 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5022 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5024 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5025 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5026 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5028 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5111 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5112 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5113 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5114 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5115 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5116 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5117 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5118 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5119 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5120 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5121 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5123 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5124 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5125 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5126 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5127 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5128 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5129 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5130 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5131 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5132 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5133 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5134 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5135 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5136 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5138 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5139 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5305 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5306 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5312 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5313 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5315 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5316 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5317 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5318 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5319 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5320 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5321 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5322 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5323 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5324 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5325 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5326 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5327 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5328 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5329 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5330 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5331 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5332 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5341 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5342 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5343 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5344 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5345 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5346 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5347 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5348 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5349 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5350 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5351 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5360 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5361 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5362 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5363 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5364 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5365 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5366 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5367 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5368 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5369 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5380 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5381 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5382 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5383 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5384 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5385 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5386 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5388 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5389 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5390 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5391 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5392 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5393 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5394 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5395 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5401 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5402 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5403 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5404 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5405 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5406 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5407 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5408 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5409 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5410 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5411 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5412 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5413 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5414 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5415 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5416 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5417 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5418 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5419 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5420 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5421 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5422 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5423 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5424 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5425 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5426 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5427 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5428 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5429 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5430 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5431 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5432 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5433 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5435 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5446 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5447 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5448 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5449 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5450 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5451 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5452 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5453 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5454 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5455 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5456 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5457 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5459 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5460 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5461 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5469 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5486 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5488 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5490 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5492 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5494 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5496 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5498 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5499 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5500 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5502 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5506 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5508 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5510 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5513 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5514 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5515 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5516 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5520 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5534 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5911 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5912 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5913 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5914 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5915 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5916 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5917 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5918 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5920 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5921 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5922 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5923 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5924 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5925 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5926 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5927 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5928 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5929 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5930 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5931 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5932 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5933 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5934 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5935 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5936 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5940 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5941 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5942 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5943 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5944 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5945 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 5946 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6000 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6001 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6010 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6012 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6013 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6014 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6015 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6016 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6017 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6019 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6021 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6022 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6023 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6024 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6025 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6026 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6027 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6028 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6032 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6033 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6034 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6035 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6036 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6037 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6038 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6039 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6040 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6041 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6042 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6043 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6044 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6045 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6046 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6047 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6048 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6049 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6050 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6052 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6055 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6062 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6064 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6065 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6066 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6067 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6068 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6069 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6070 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6071 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6080 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6081 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6086 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6087 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6088 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6089 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6091 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6092 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6093 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6094 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6095 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6096 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6097 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6098 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6099 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6100 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6101 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6119 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6120 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6121 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6123 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6124 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6125 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6126 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6127 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6128 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6129 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6131 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6132 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6133 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6134 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6140 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6141 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6142 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6143 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6144 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6145 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6146 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6153 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6155 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6156 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6157 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6158 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6160 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6161 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6162 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6163 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6212 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6213 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6214 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6215 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6216 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6217 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6218 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6219 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6220 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6221 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6222 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6223 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6224 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6232 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6234 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6235 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6236 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6237 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6238 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6239 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6240 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6241 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6242 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6243 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6244 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6245 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6246 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6251 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6252 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6253 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6254 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6255 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6256 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6257 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6258 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6259 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6260 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6261 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6262 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6263 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6264 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6265 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6266 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6267 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6268 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6269 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6270 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6271 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6272 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6273 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6274 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6281 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6282 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6283 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6285 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6286 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6287 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6289 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6290 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6291 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6292 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6293 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6301 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6302 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6303 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6328 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6329 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6330 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6331 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6332 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6333 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6334 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6335 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6336 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6337 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6338 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6345 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6346 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6417 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6418 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6419 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6510 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6512 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6513 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6514 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6515 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6516 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6517 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6518 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6519 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6521 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6522 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6524 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6525 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6526 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6527 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6528 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6529 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6530 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6531 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6532 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6533 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6534 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6535 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6540 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6541 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6542 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6544 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6545 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6546 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6547 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6548 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6549 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6550 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6551 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6552 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6553 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6557 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6558 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6559 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6562 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6563 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6564 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6565 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6566 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6567 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6568 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6569 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6570 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6571 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6572 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6708 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6710 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6711 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6712 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6713 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6714 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6715 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6716 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6718 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6719 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6720 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6721 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6722 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6723 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6724 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6725 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6726 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6727 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6728 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6729 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6730 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6732 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6733 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6746 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6748 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6749 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6750 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6751 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6752 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6753 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6754 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6755 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6761 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6762 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6763 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6764 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6765 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6766 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6767 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6768 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6769 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6770 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6771 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6772 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6773 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6782 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6783 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6784 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6785 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6786 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6787 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6791 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6792 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6793 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6794 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6796 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6906 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6908 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6909 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6910 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6911 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6913 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6914 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6915 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6917 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6918 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6920 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6921 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6922 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6924 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6925 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6926 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6927 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6928 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6929 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6930 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6931 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6932 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6933 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6934 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6935 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6936 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6937 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6941 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6942 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6946 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6947 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6948 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6949 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6950 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6951 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6952 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6954 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6956 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6957 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6958 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6959 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 6960 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7012 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7013 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7014 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7015 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7016 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7017 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7018 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7019 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7020 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7021 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7022 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7023 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7024 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7025 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7026 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7027 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7028 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7032 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7033 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7034 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7035 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7036 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7037 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7038 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7039 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7040 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7041 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7042 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7043 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7044 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7045 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7046 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7047 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7048 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7049 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7050 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7051 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7052 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7062 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7063 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7064 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7065 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7066 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7068 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7069 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7070 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7071 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7072 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7080 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7083 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7086 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7087 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7088 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7089 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7092 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7093 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7094 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7095 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7096 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7097 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7098 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7099 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7100 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7101 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7120 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7121 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7122 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7123 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7124 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7125 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7126 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7128 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7129 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7131 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7132 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7133 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7134 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7140 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7141 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7142 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7143 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7144 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7145 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7146 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7153 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7155 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7157 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7158 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7160 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7161 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7162 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7163 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7212 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7213 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7214 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7215 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7216 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7217 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7218 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7219 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7220 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7221 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7222 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7223 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7224 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7232 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7234 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7235 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7236 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7237 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7238 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7239 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7240 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7241 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7242 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7244 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7245 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7246 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7251 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7252 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7253 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7255 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7256 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7257 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7258 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7259 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7260 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7261 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7262 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7263 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7264 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7265 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7266 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7267 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7268 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7269 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7270 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7271 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7281 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7282 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7283 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7284 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7285 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7287 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7288 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7289 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7290 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7291 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7292 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7293 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7294 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7295 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7296 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7297 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7298 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7301 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7303 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7327 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7328 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7330 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7331 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7332 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7333 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7334 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7335 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7336 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7337 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7338 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7345 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7346 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7399 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7417 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7418 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7424 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7512 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7514 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7515 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7517 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7518 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7519 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7520 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7521 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7522 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7523 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7524 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7525 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7526 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7527 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7529 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7540 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7541 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7542 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7543 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7544 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7545 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7546 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7547 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7548 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7549 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7550 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7551 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7552 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7553 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7557 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7562 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7563 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7564 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7565 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7566 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7567 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7568 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7569 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7570 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7571 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7572 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7575 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7700 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7708 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7709 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7711 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7712 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7713 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7714 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7715 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7716 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7718 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7719 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7720 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7721 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7722 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7723 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7724 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7725 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7726 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7728 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7729 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7731 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7732 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7746 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7748 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7749 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7750 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7751 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7752 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7753 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7754 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7755 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7761 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7762 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7763 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7764 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7766 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7767 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7768 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7769 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7770 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7771 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7772 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7773 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7774 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7782 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7784 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7785 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7786 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7787 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7788 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7791 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7792 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7793 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7794 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7795 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7796 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7907 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7908 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7909 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7910 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7911 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7912 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7913 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7914 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7915 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7917 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7918 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7920 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7922 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7923 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7924 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7925 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7926 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7927 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7928 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7929 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7930 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7931 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7932 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7933 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7934 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7935 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7936 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7937 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7939 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7941 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7942 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7946 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7947 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7948 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7949 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7950 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7951 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7952 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7953 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7954 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7955 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7956 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7958 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7959 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 7960 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8000 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8001 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8002 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8003 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8004 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8005 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8006 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8007 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8008 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8009 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8017 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8018 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8019 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8020 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8021 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8046 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8047 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8048 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8049 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8050 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8051 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8052 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8053 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8054 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8055 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8057 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8058 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8059 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8060 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8061 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8062 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8063 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8064 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8065 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8066 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8067 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8068 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8069 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8070 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8071 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8072 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8073 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8090 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8091 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8092 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8093 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8094 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8096 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8097 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8098 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8099 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8100 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8101 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8102 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8104 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8105 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8106 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8110 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8111 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8112 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8113 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8115 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8116 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8117 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8118 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8120 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8121 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8122 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8123 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8135 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8136 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8140 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8142 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8143 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8145 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8146 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8147 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8148 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8152 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8153 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8154 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8155 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8156 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8157 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8158 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8159 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8160 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8161 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8163 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8164 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8165 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8166 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8167 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8168 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8169 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8170 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8171 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8172 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8173 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8174 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8175 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8176 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8177 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8178 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8180 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8201 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8202 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8203 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8204 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8205 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8206 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8207 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8208 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8210 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8211 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8212 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8213 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8214 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8215 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8216 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8217 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8219 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8224 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8225 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8226 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8227 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8228 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8229 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8231 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8232 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8233 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8234 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8235 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8236 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8237 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8239 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8240 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8241 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8242 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8246 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8247 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8249 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8250 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8251 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8253 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8254 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8255 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8256 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8259 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8260 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8269 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8270 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8271 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8272 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8273 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8274 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8275 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8276 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8277 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8278 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8279 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8280 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8281 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8282 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8283 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8284 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8285 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8286 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8287 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8288 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8289 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8290 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8291 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8292 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8293 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8294 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8295 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8296 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8297 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8298 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8299 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8303 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8304 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8305 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8306 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8307 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8309 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8310 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8311 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8312 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8313 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8315 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8321 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8322 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8323 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8324 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8325 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8326 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8327 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8328 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8329 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8331 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8332 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8333 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8334 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8335 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8336 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8347 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8348 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8349 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8350 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8351 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8352 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8354 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8355 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8356 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8357 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8358 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8359 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8360 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8361 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8362 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8363 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8364 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8365 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8366 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8369 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8370 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8371 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8372 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8373 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8374 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8375 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8376 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8377 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8410 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8413 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8414 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8415 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8416 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8417 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8418 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8419 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8420 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8422 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8423 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8424 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8462 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8463 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8464 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8465 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8466 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8467 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8501 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8502 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8503 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8504 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8505 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8506 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8507 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8508 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8509 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8510 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8511 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8514 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8515 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8516 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8517 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8518 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8519 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8527 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8528 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8529 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8530 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8531 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8532 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8533 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8534 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8535 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8536 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8538 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8539 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8540 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8542 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8543 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8544 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8547 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8548 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8550 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8551 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8552 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8553 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8554 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8555 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8556 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8558 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8559 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8568 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8569 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8570 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8571 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8572 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8573 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8575 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8576 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8579 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8580 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8582 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8584 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8585 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8586 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8587 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8588 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8601 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8602 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8604 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8607 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8611 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8612 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8613 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8614 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8615 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8621 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8622 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8624 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8625 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8627 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8633 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8689 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8690 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8691 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8692 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8693 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8694 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8700 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8703 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8704 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8706 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8730 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8731 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8732 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8733 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8734 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8735 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8737 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8748 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8779 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8780 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8781 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8782 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8838 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8839 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8840 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8841 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8842 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8843 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8844 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8845 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8846 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8847 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8848 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8849 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8850 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8851 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8852 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8853 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8854 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8855 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8856 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8857 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8858 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8862 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8901 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8902 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8903 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8904 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8905 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8907 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8908 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8909 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8910 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8911 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8918 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8919 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8920 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8921 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8952 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8959 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8960 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8961 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8962 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8963 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8964 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8965 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8966 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8967 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8968 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8969 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8970 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8971 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8977 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8978 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8979 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8980 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8981 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8982 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8983 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8984 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8985 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8991 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8992 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8993 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8997 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8998 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 8999 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9000 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9001 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9002 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9003 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9004 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9005 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9007 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9008 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9009 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9017 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9018 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9019 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9020 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9047 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9049 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9050 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9051 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9052 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9053 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9054 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9055 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9056 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9057 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9058 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9059 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9060 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9061 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9062 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9063 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9064 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9065 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9066 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9067 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9068 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9069 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9070 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9071 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9072 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9090 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9092 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9093 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9098 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9099 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9100 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9101 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9102 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9104 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9105 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9106 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9110 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9111 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9112 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9113 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9114 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9115 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9117 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9118 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9121 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9122 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9130 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9131 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9132 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9135 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9136 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9140 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9142 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9143 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9144 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9145 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9146 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9147 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9148 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9150 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9151 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9152 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9153 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9155 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9156 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9157 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9158 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9159 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9160 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9162 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9163 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9164 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9165 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9166 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9167 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9168 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9169 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9170 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9171 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9172 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9173 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9174 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9175 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9176 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9177 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9178 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9180 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9197 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9199 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9200 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9201 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9202 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9203 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9204 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9205 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9206 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9207 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9208 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9210 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9211 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9212 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9213 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9214 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9215 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9216 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9217 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9218 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9219 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9223 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9224 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9225 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9226 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9227 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9228 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9229 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9231 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9232 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9233 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9234 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9235 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9236 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9237 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9238 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9239 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9240 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9241 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9242 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9245 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9246 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9247 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9249 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9250 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9251 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9253 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9254 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9255 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9256 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9257 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9260 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9268 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9269 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9270 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9271 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9272 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9273 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9274 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9275 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9276 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9277 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9278 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9279 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9280 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9281 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9282 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9283 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9284 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9285 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9286 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9287 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9288 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9290 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9292 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9293 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9294 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9296 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9297 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9298 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9299 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9303 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9305 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9306 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9308 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9309 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9310 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9312 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9313 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9314 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9315 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9316 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9321 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9322 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9323 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9324 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9325 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9326 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9327 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9328 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9329 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9332 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9333 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9336 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9337 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9347 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9348 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9349 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9350 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9351 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9353 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9354 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9355 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9356 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9357 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9358 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9360 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9361 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9362 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9363 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9364 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9365 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9366 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9367 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9368 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9369 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9370 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9371 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9372 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9373 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9374 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9375 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9376 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9377 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9401 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9402 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9403 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9404 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9405 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9406 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9407 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9408 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9409 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9410 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9411 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9412 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9414 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9415 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9416 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9417 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9418 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9419 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9420 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9422 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9423 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9424 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9461 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9462 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9463 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9464 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9465 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9466 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9501 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9502 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9514 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9515 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9516 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9517 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9518 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9519 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9525 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9526 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9527 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9528 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9529 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9530 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9531 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9532 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9533 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9534 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9535 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9536 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9538 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9539 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9540 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9541 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9542 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9543 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9544 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9545 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9546 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9548 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9550 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9551 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9552 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9553 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9554 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9555 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9556 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9558 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9559 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9567 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9568 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9569 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9570 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9571 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9572 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9573 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9574 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9575 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9576 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9577 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9582 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9583 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9584 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9585 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9586 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9587 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9601 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9602 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9604 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9605 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9607 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9611 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9612 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9613 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9614 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9615 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9621 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9622 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9623 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9624 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9625 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9626 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9627 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9688 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9689 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9690 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9691 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9692 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9693 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9694 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9700 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9703 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9704 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9706 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9730 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9731 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9732 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9733 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9735 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9736 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9739 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9748 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9779 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9780 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9781 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9782 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9837 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9838 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9839 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9840 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9841 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9842 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9843 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9844 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9845 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9846 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9847 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9848 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9849 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9850 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9851 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9852 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9853 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9854 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9855 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9856 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9857 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9858 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9901 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9902 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9903 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9904 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9905 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9906 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9907 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9908 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9909 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9910 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9911 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9912 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9913 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9915 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9916 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9917 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9918 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9919 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9920 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9951 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9953 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9954 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9955 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9956 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9957 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9958 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9959 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9960 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9961 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9962 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9963 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9964 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9965 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9966 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9967 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9968 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9969 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9970 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9977 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9978 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9979 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9980 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9981 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9982 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9983 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9984 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9985 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9995 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9997 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9998 -r 1 --dbtype mariadb &
+/home/username/wellingtonBusStuff/stop_departures.py -s 9999 -r 1 --dbtype mariadb &
