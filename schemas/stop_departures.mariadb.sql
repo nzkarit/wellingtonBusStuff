@@ -1,0 +1,33 @@
+START TRANSACTION;
+CREATE TABLE `stop_departures_details` (
+	`id`	BIGINT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT UNIQUE,
+	`date`	DATE NOT NULL,
+	`timestamp`	TIMESTAMP NOT NULL,
+	`LastModified`	TIMESTAMP,
+	`Name`	TEXT,
+	`Sms`	SMALLINT,
+	`Farezone`	TINYINT,
+	`Lat`	FLOAT,
+	`Long`	FLOAT,
+	`ServiceID`	SMALLINT,
+	`IsRealtime`	BOOLEAN,
+	`VehicleRef`	SMALLINT,
+	`Direction`	TEXT,
+	`OperatorRef`	TEXT,
+	`OriginStopID`	SMALLINT,
+	`OriginStopName`	TEXT,
+	`DestinationStopID`	SMALLINT,
+	`DestinationStopName`	TEXT,
+	`AimedArrival`	TIMESTAMP,
+	`AimedDeparture`	TIMESTAMP,
+	`ExpectedDeparture`	TIMESTAMP,
+	`DisplayDeparture`	TIMESTAMP,
+	`VehicleFeature`	TEXT,
+	`DepartureStatus`	TEXT,
+	`DisplayDepartureSeconds`	INTEGER,
+	`Code`	TEXT,
+	`TrimmedCode`	TEXT,
+	`ServiceName`	TEXT,
+	`Mode`	TEXT
+) ENGINE=InnoDB;
+COMMIT;
