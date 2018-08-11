@@ -21,7 +21,7 @@ import configparser
 def argParser():
     description = 'This tool will collect all the Real Time Information (RTI) for a particular bus service in Wellington NZ, from the Metlink API'
     parser = argparse.ArgumentParser(description=description)
-    parser.add_argument('-s', action='store', type=string, dest='serviceID', default=1, help='The service id for the bus service you would like to capture the data for. Default: %(default)s')
+    parser.add_argument('-s', action='store', type=str, dest='serviceID', default=1, help='The service id for the bus service you would like to capture the data for. Default: %(default)s')
     parser.add_argument('-i', action='store', type=int, dest='interval', default=60, help='How often in seconds to requery the API. Default: %(default)s')
     parser.add_argument('-d', action='store', type=str, dest='db', default='service_location.db', help='The sqlite database to data in. Assumes it already has all the schema in place. Only applicable if dbtype is sqlite. Default: %(default)s')
     parser.add_argument('--url', action='store', type=str, dest='url', default='https://www.metlink.org.nz/api/v1/ServiceLocation/', help='The base URL for the data. Default: %(default)s')
