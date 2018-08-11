@@ -42,12 +42,14 @@ This are some SQL statements to get stats out of the data
 SELECT *
 	FROM stop_details sd1
 	WHERE timestamp = (SELECT MAX(timestamp) FROM stop_details sd2 WHERE sd1.aimeddeparture = sd2.aimeddeparture)
+    AND sms = 5010
 ```
 ### How many on time
 ```sql
 SELECT departurestatus, COUNT(*)
 	FROM stop_details sd1
 	WHERE timestamp = (SELECT MAX(timestamp) FROM stop_details sd2 WHERE sd1.aimeddeparture = sd2.aimeddeparture)
+    AND sms = 5010
 	GROUP BY departurestatus
 ```
 departurestatus | COUNT(*)
@@ -62,7 +64,19 @@ SELECT serviceid, aimeddeparture, expecteddeparture, (CAST(strftime('%s', expect
 	FROM stop_details sd1
 	WHERE timestamp = (SELECT MAX(timestamp) FROM stop_details sd2 WHERE sd1.aimeddeparture = sd2.aimeddeparture)
 		AND expecteddeparture IS NOT NULL
+    AND sms = 5010
 	ORDER BY serviceid, aimeddeparture
+```
+
+### What is the delay over time for one service while standing a bus stop
+```
+SELECT lastmodified, aimeddeparture, expecteddeparture, (CAST(strftime('%s', expecteddeparture) as integer) - CAST(strftime('%s', aimeddeparture) as integer)) AS delay
+    FROM stop_details
+    WHERE aimeddeparture = "2018-08-10T08:27:00+12:00"
+        AND serviceid = 3
+        AND sms = 5010
+    GROUP BY lastmodified
+    ORDER BY lastmodified ASC
 ```
 
 # Collecting Service Location Information
