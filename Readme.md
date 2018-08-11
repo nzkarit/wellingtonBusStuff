@@ -125,6 +125,25 @@ SELECT lastmodified, aimeddeparture, expecteddeparture, (CAST(strftime('%s', exp
     ORDER BY lastmodified ASC
 ```
 
+### Average Delay at each stop on a route
+mariadb
+```sql
+SELECT sd1.serviceid, sd1.sms, sd1.direction, AVG(TIMESTAMPDIFF(SECOND, sd1.aimeddeparture, sd1.expecteddeparture)) as avgdelay
+  FROM stop_departures_details sd1
+  WHERE timestamp =
+    (SELECT MAX(timestamp)
+      FROM stop_departures_details sd2
+      WHERE sd1.aimeddeparture = sd2.aimeddeparture
+        AND sd1.serviceid = sd2.serviceid
+        AND sd1.sms = sd2.sms
+        AND sd1.isrealtime)
+    AND sd1.serviceid = 2
+    AND sd1.direction = 'OUTBOUND'
+    AND sd1.aimeddeparture > '2018-08-10'
+    AND sd1.aimeddeparture < '2018-08-12'
+    GROUP BY sd1.serviceid, sd1.sms, sd1.direction;
+```
+
 # Collecting Service Location Information
 service_location.py is a script that will collect all info for a bus service and log it to a DB
 
