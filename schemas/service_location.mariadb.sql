@@ -23,7 +23,7 @@ CREATE TABLE service_location_details (
   `BehindSchedule` BOOLEAN,
   `VehicleFeature` TEXT ,
   `DelaySeconds` INTEGER ,
-  `Lat`  FLOAT,
-  `Long` FLOAT
+  `Latitude`  FLOAT,
+  `Longitude` FLOAT
 ) ENGINE=InnoDB;
 COMMIT;

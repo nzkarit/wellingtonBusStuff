@@ -79,7 +79,8 @@ The SQL query I am interested with this how far away from a bus when it drops of
 
 # MariaDB
 
-## Inital Setup
+## Initial Setup
+1. `sudo apt install mariadb-server python3-mysql.connector`
 1. `sudo mariadb`
 1. `create database bus;`
 1. `use bus;`
