@@ -40,17 +40,33 @@ This are some SQL statements to get stats out of the data
 ### Most recent record for each service
 ```sql
 SELECT *
-	FROM stop_details sd1
-	WHERE timestamp = (SELECT MAX(timestamp) FROM stop_details sd2 WHERE sd1.aimeddeparture = sd2.aimeddeparture)
+  FROM stop_departures_details sd1
+  WHERE timestamp =
+    (SELECT MAX(timestamp)
+        FROM stop_departures_details sd2
+        WHERE sd1.aimeddeparture = sd2.aimeddeparture
+            AND sd1.serviceid = sd2.serviceid
+	        AND sd1.sms = sd2.sms)
     AND sms = 5010
+  GROUP BY departurestatus;
 ```
-### How many on time
+
+### Remove all by the most recent record
+
+
+### How many on time at a stop overall
 ```sql
 SELECT departurestatus, COUNT(*)
-	FROM stop_details sd1
-	WHERE timestamp = (SELECT MAX(timestamp) FROM stop_details sd2 WHERE sd1.aimeddeparture = sd2.aimeddeparture)
+  FROM stop_departures_details sd1
+  WHERE timestamp =
+    (SELECT MAX(timestamp)
+        FROM stop_departures_details sd2
+        WHERE sd1.aimeddeparture = sd2.aimeddeparture
+            AND sd1.serviceid = sd2.serviceid
+	        AND sd1.sms = sd2.sms)
     AND sms = 5010
-	GROUP BY departurestatus
+    AND departurestatus IS NOT NULL
+  GROUP BY departurestatus;
 ```
 departurestatus | COUNT(*)
 ----------------|---------
@@ -58,18 +74,48 @@ null | 17
 delayed | 1
 onTime | 5
 
-### How late are they?
+### How many on time at a stop for each route
 ```sql
-SELECT serviceid, aimeddeparture, expecteddeparture, (CAST(strftime('%s', expecteddeparture) as integer) - CAST(strftime('%s', aimeddeparture) as integer)) AS delay
-	FROM stop_details sd1
-	WHERE timestamp = (SELECT MAX(timestamp) FROM stop_details sd2 WHERE sd1.aimeddeparture = sd2.aimeddeparture)
-		AND expecteddeparture IS NOT NULL
+SELECT serviceid, departurestatus, COUNT(*)
+  FROM stop_departures_details sd1
+  WHERE timestamp =
+    (SELECT MAX(timestamp)
+        FROM stop_departures_details sd2
+        WHERE sd1.aimeddeparture = sd2.aimeddeparture
+            AND sd1.serviceid = sd2.serviceid
+	        AND sd1.sms = sd2.sms)
     AND sms = 5010
-	ORDER BY serviceid, aimeddeparture
+    AND departurestatus IS NOT NULL
+  GROUP BY serviceid, departurestatus
+  ORDER BY serviceid, departurestatus;
 ```
 
-### What is the delay over time for one service while standing a bus stop
+### How late are they?
+sqlite
+```sql
+SELECT serviceid, aimeddeparture, expecteddeparture, (CAST(strftime('%s', expecteddeparture) as integer) - CAST(strftime('%s', aimeddeparture) as integer)) AS delay
+	FROM stop_departures_details sd1
+	WHERE timestamp = (SELECT MAX(timestamp) FROM stop_departures_details sd2 WHERE sd1.aimeddeparture = sd2.aimeddeparture)
+		AND expecteddeparture IS NOT NULL
+    AND sms = 5010
+	ORDER BY serviceid, aimeddeparture;
 ```
+MariaDB
+```
+SELECT serviceid, aimeddeparture, expecteddeparture, TIMESTAMPDIFF(SECOND, aimeddeparture, expecteddeparture) AS delay
+	FROM stop_departures_details sd1
+	WHERE timestamp =
+	    (SELECT MAX(timestamp)
+	        FROM stop_departures_details sd2
+	        WHERE sd1.aimeddeparture = sd2.aimeddeparture
+	            AND sd1.serviceid = sd2.serviceid
+	            AND sd1.sms = sd2.sms)
+    AND sms = 5010
+	ORDER BY serviceid, aimeddeparture;
+```
+### What is the delay over time for one service while standing a bus stop
+sqlite
+```sql
 SELECT lastmodified, aimeddeparture, expecteddeparture, (CAST(strftime('%s', expecteddeparture) as integer) - CAST(strftime('%s', aimeddeparture) as integer)) AS delay
     FROM stop_details
     WHERE aimeddeparture = "2018-08-10T08:27:00+12:00"
