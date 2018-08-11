@@ -1,0 +1,33 @@
+BEGIN TRANSACTION;
+CREATE TABLE `stop_departures_details` (
+	`id`	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	`date`	TEXT,
+	`timestamp`	TEXT NOT NULL,
+	`LastModified`	TEXT NOT NULL,
+	`Name`	TEXT,
+	`Sms`	INTEGER NOT NULL,
+	`Farezone`	INTEGER,
+	`Lat`	NUMERIC,
+	`Long`	NUMERIC,
+	`ServiceID`	INTEGER,
+	`IsRealtime`	INTEGER,
+	`VehicleRef`	INTEGER,
+	`Direction`	TEXT,
+	`OperatorRef`	TEXT,
+	`OriginStopID`	INTEGER,
+	`OriginStopName`	TEXT,
+	`DestinationStopID`	INTEGER,
+	`DestinationStopName`	TEXT,
+	`AimedArrival`	TEXT,
+	`AimedDeparture`	TEXT,
+	`ExpectedDeparture`	TEXT,
+	`DisplayDeparture`	TEXT,
+	`VehicleFeature`	TEXT,
+	`DepartureStatus`	TEXT,
+	`DisplayDepartureSeconds`	INTEGER,
+	`Code`	TEXT,
+	`TrimmedCode`	TEXT,
+	`ServiceName`	TEXT,
+	`Mode`	TEXT
+);
+COMMIT;
