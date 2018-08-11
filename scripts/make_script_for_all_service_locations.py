@@ -7,3 +7,4 @@ with open('../data/routes.txt', 'r') as infile:
         outfile.write('#!/usr/bin/env sh\n')
         for stop in stops:
             outfile.write('/home/username/wellingtonBusStuff/service_location.py -s %s -r 1 --dbtype mariadb &\n' % (stop.strip()))
+            outfile.write('sleep 1')
