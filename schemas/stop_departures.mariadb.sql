@@ -9,7 +9,7 @@ CREATE TABLE `stop_departures_details` (
 	`Farezone`	TINYINT,
 	`Latitude`	FLOAT,
 	`Longitude`	FLOAT,
-	`ServiceID`	SMALLINT,
+	`ServiceID`	VARCHAR(5),
 	`IsRealtime`	BOOLEAN,
 	`VehicleRef`	SMALLINT,
 	`Direction`	TEXT,
