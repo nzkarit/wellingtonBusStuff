@@ -111,3 +111,6 @@ stop_departures.db
 #Ignore log files
 *.log
 *.log.*
+
+#Ignore tmp
+tmp/
