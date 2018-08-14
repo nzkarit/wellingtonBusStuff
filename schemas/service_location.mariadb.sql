@@ -11,7 +11,7 @@ CREATE TABLE service_location_details (
   `Link` TEXT ,
   `RecordedAtTime` TIMESTAMP,
   `VehicleRef` SMALLINT,
-  `ServiceID` SMALLINT,
+  `ServiceID` VARCHAR(5),
   `HasStarted` BOOLEAN,
   `DepartureTime` TIMESTAMP,
   `OriginStopID` SMALLINT,
