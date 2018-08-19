@@ -198,5 +198,9 @@ To use sqlite you will need to copy the blanks into a working location, before r
 1. `GRANT INSERT ON bus.* TO 'bus_input'@'localhost';`
 1. `SET PASSWORD FOR 'bus_input'@'localhost' = PASSWORD('changeme');`
 
+# Graphing
+## Intital Setup
+1. `sudo apt install python3-pandas`
+
 # Future
 If you want it to do something please ask away or better still do a pull request with some code or some SQL in the Readme. Create an issue here or hit me up on Twitter @nzkarit
